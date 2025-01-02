@@ -6,7 +6,7 @@ Dev\_Johnel
 
 I’ve been learning to code for 2Years and then I moved to SE, I’m a student of Holberton School, learning Python, C# , JavaScript, Html and PHP
 
-*   🌍  I'm based in Uyo
+*   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [Johnelsaphire@gmail.com](mailto:Johnelsaphire@gmail.com)
 *   🧠  I'm learning Software Engineering
 *   🤝  I'm open to collaborating on HTML, WP and JOOMLA
